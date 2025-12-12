@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @INSANE-LOL
-- 👀 I’m interested in machine learning and web development 
-- 🌱 I’m currently learning python programming language 
+- 👋 Hi, I’m Sai Hattimare 
+- 👀 I’m interested in Artificial intelligence & machine learning 
+- 🌱 I’m currently learning python programming language
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Ig:@frr_insane
+- 📫 How to reach me Ig:@autistic_saiii
 - 😄 Pronouns: He/Him
-- ⚡ fact:I don't talk much
+- ⚡ fact:
 
 <!---
 INSANE-LOL/INSANE-LOL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
