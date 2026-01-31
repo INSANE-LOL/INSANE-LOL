@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Sai Hattimare 
-- 👀 I’m interested in Artificial intelligence & machine learning 
+- 👀 I’m Curious about Artificial intelligence & machine learning.
 - 🌱 I’m currently learning python programming language
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Ig:@autistic_saiii
+- 📫 How to reach me Ig:@saisnotcool
 - 😄 Pronouns: He/Him
 - ⚡ fact:
 
