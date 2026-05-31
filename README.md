@@ -1,10 +1,19 @@
-- 👋 Hi, I’m Sai Hattimare 
-- 👀 I’m Curious about Artificial intelligence & machine learning.
-- 🌱 I’m currently learning python programming language
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Ig:@saisnotcool
-- 😄 Pronouns: He/Him
-- ⚡ fact:
+Hi there, I'm Sai Hattimare
+BCA Undergraduate Student
+Passionate about Programming, Software Development, and Emerging Technologies.
+Currently learning:
+* Data Structures & Algorithms
+* Web Development
+Interested in:
+* Artificial Intelligence
+* Open Source Development
+* Full-Stack Development
+* Technology Innovation
+Open to collaborating on:
+* Beginner-friendly Open Source Projects
+* Web Development Projects
+
+
 
 <!---
 INSANE-LOL/INSANE-LOL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
